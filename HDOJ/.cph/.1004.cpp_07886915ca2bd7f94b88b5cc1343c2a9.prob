@@ -1,1 +1,0 @@
-{"name":"Local: 1004","url":"d:\\CPC\\HDOJ\\1004.cpp","tests":[{"id":1765106525694,"input":"5\ngreen\nred\nblue\nred\nred\n3\npink\norange\npink\n0","output":"red\npink"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CPC\\HDOJ\\1004.cpp","group":"local","local":true}
