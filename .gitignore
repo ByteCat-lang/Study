@@ -11,6 +11,7 @@ release/
 /temp/
 .vscode/
 .cph/
+tempCodeRunnerFile.cpp
 *.exe
 *.dll
 *.lib
